@@ -3,6 +3,6 @@ version: 1.0
 os: linux 
 
 files:
-  - source:./target/*.war
+  - source:./target/*.zip
     destination: /usr/local/tomcat7/webapps
 
