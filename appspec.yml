@@ -1,5 +1,5 @@
 # This is an appspec.yml template file for use with AWS CodeDeploy.
-version: 1.0
+version: 0.0
 os: linux 
 
 files:
